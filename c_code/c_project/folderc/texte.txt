@@ -1,0 +1,2 @@
+nom : fallou | ecole : yelli | age : 20 ans 
+nom : modou | ecole : ndiiode | age : 21 ans 
